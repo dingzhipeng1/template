@@ -42,7 +42,7 @@
     methods: {
       submitForm(formName) {
         var that = this;
-        /*    this.axios({
+      /*     this.axios({
               url: '13123'
             }).then(function () {
               //ajax请求逻辑
